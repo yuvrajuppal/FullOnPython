@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. FastApi/07.  read sql database via get api.md",
-                "mode": "source",
+                "file": "01. FastApi/05. post,delete,put API.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.  read sql database via get api"
+              "title": "05. post,delete,put API"
             }
           }
         ]
@@ -185,18 +185,20 @@
   },
   "active": "a8a46fa5456276f6",
   "lastOpenFiles": [
-    "01. FastApi/06. schema folder structure.md",
-    "01. FastApi/07.  read sql database via get api.md",
-    "01. FastApi/05. post api.md",
-    "01. FastApi/00. Installation.md",
+    "01. FastApi/08. status codes in backend.md",
+    "01. FastApi/09..md",
+    "01. FastApi/01. get api and path parameter.md",
+    "01. FastApi/05. post,delete,put API.md",
+    "01. FastApi/07.  CRUD sql database via get api.md",
     "01. FastApi/04 params in get api.md",
+    "01. FastApi/06. schema folder structure.md",
+    "01. FastApi/00. Installation.md",
     "01. FastApi/03. swager ui.md",
     "05. connect sql in python/02. create and update data.md",
     "05. connect sql in python/00. installation.md",
     "05. connect sql in python/03 read database.md",
     "05. connect sql in python",
     "Pasted image 20260125130608.png",
-    "01. FastApi/01. get api and path parameter.md",
     "Welcome.md",
     "01. FastApi"
   ]
