@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/08. Condition Statement - if.md",
-                "mode": "source",
+                "file": "01. python/06. Math Lib in py.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. Condition Statement - if"
+              "title": "06. Math Lib in py"
             }
           }
         ]
@@ -185,17 +185,17 @@
   },
   "active": "dd086a09e2d22a32",
   "lastOpenFiles": [
+    "01. python/07. condition operators.md",
     "01. python/06. Math Lib in py.md",
     "01. python/05. arithmetic operation.md",
+    "01. python/04. input in py.md",
     "01. python/09..md",
     "01. python/08. Condition Statement - if.md",
-    "01. python/07. condition operators.md",
-    "Pasted image 20260129004243.png",
-    "01. python/04. input in py.md",
-    "01. python/03. Type casting.md",
-    "01. python/02. variable.md",
-    "01. python/01 DataTypes in python.md",
     "01. python/00. Clear Console.md",
+    "01. python/01 DataTypes in python.md",
+    "01. python/02. variable.md",
+    "01. python/03. Type casting.md",
+    "Pasted image 20260129004243.png",
     "02. conda/01. anaconda installation.md",
     "02. conda/02. Create anaconda venv in python.md",
     "01. python",
