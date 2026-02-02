@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/10. Condition Statement - if-el if lader - else.md",
+                "file": "01. python/14. format Specifiers in python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Condition Statement - if-el if lader - else"
+              "title": "14. format Specifiers in python"
             }
           }
         ]
@@ -185,20 +185,34 @@
   },
   "active": "dd086a09e2d22a32",
   "lastOpenFiles": [
-    "01. python/09. Condition Statement - if else.md",
-    "01. python/10. Condition Statement - if-el if lader - else.md",
-    "01. python/08. Condition Statement - if.md",
-    "01. python/07. condition operators.md",
+    "01. python/15. Loops in python.md",
+    "01. python/14. format Specifiers in python.md",
+    "01. python/10. Conditional express (Ternary Operator).md",
+    "Pasted image 20260203010604.png",
+    "Pasted image 20260203010601.png",
+    "Pasted image 20260203010546.png",
+    "Pasted image 20260203010542.png",
+    "Pasted image 20260203010538.png",
+    "Pasted image 20260203010533.png",
+    "Pasted image 20260203010420.png",
+    "01. python/13. String indexing.md",
     "01. python/06. Math Lib in py.md",
     "01. python/05. arithmetic operation.md",
-    "01. python/04. input in py.md",
-    "01. python/00. Clear Console.md",
-    "01. python/01 DataTypes in python.md",
-    "01. python/02. variable.md",
     "01. python/03. Type casting.md",
+    "01. python/02. variable.md",
     "Pasted image 20260129004243.png",
+    "01. python/12. String Methods.md",
+    "01. python/11. Logical operator in python.md",
+    "01. python/00. Clear Console.md",
     "02. conda/01. anaconda installation.md",
     "02. conda/02. Create anaconda venv in python.md",
+    "01. python/10. Condition Statement - if-el if lader - else.md",
+    "01. python/09. Condition Statement - if else.md",
+    "01. python/Untitled",
+    "01. python/08. Condition Statement - if.md",
+    "01. python/07. condition operators.md",
+    "01. python/04. input in py.md",
+    "01. python/01 DataTypes in python.md",
     "01. python",
     "02. conda",
     "Welcome.md"
