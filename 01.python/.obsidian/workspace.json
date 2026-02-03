@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/14. format Specifiers in python.md",
+                "file": "01. python/15. Loops in python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. format Specifiers in python"
+              "title": "15. Loops in python"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "dd086a09e2d22a32",
   "lastOpenFiles": [
-    "01. python/15. Loops in python.md",
     "01. python/14. format Specifiers in python.md",
+    "01. python/15. Loops in python.md",
     "01. python/10. Conditional express (Ternary Operator).md",
     "Pasted image 20260203010604.png",
     "Pasted image 20260203010601.png",
