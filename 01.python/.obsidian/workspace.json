@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/21. dictionary in python.md",
+                "file": "01. python/22. random in python.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "21. dictionary in python"
+              "title": "22. random in python"
             }
           }
         ]
@@ -185,13 +185,15 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
-    "01. python/21. Continue Break python.md",
+    "01. python/24. Functions in python.md",
+    "01. python/22. random in python.md",
     "01. python/21. dictionary in python.md",
-    "01. python/16. Time in python.md",
-    "01. python/20. tuple in python.md",
-    "01. python/15. Loops in python.md",
-    "01. python/18 list in python.md",
     "01. python/19. Set in python.md",
+    "01. python/20. tuple in python.md",
+    "01. python/18 list in python.md",
+    "01. python/21. Continue Break python.md",
+    "01. python/16. Time in python.md",
+    "01. python/15. Loops in python.md",
     "01. python/06. Math Lib in py.md",
     "01. python/17. test 1.0.md",
     "01. python/00. Clear Console.md",
@@ -210,7 +212,6 @@
     "01. python/08. Condition Statement - if.md",
     "01. python/05. arithmetic operation.md",
     "01. python/04. input in py.md",
-    "01. python/15. While Loops in python.md",
     "Pasted image 20260203010604.png",
     "Pasted image 20260203010601.png",
     "Pasted image 20260203010546.png",
@@ -219,7 +220,6 @@
     "Pasted image 20260203010533.png",
     "Pasted image 20260203010420.png",
     "Pasted image 20260129004243.png",
-    "02. conda/01. anaconda installation.md",
     "01. python/Untitled",
     "01. python",
     "02. conda"
