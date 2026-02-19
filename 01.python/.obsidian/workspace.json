@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/22. random in python.md",
+                "file": "01. python/24. Functions in python.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "22. random in python"
+              "title": "24. Functions in python"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
-    "01. python/24. Functions in python.md",
     "01. python/22. random in python.md",
+    "01. python/24. Functions in python.md",
     "01. python/21. dictionary in python.md",
     "01. python/19. Set in python.md",
     "01. python/20. tuple in python.md",
