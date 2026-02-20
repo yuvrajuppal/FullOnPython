@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/24. Functions in python.md",
-                "mode": "preview",
+                "file": "01. python/26. List comprehension in python.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "24. Functions in python"
+              "title": "26. List comprehension in python"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
-    "01. python/22. random in python.md",
+    "01. python/25. Membership Operator in python.md",
+    "01. python/26. List comprehension in python.md",
+    "01. python/Untitled",
     "01. python/24. Functions in python.md",
+    "01. python/22. random in python.md",
     "01. python/21. dictionary in python.md",
     "01. python/19. Set in python.md",
     "01. python/20. tuple in python.md",
@@ -210,8 +213,6 @@
     "Untitled",
     "01. python/11. Logical operator in python.md",
     "01. python/08. Condition Statement - if.md",
-    "01. python/05. arithmetic operation.md",
-    "01. python/04. input in py.md",
     "Pasted image 20260203010604.png",
     "Pasted image 20260203010601.png",
     "Pasted image 20260203010546.png",
@@ -220,7 +221,6 @@
     "Pasted image 20260203010533.png",
     "Pasted image 20260203010420.png",
     "Pasted image 20260129004243.png",
-    "01. python/Untitled",
     "01. python",
     "02. conda"
   ]
