@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/26. List comprehension in python.md",
-                "mode": "source",
+                "file": "01. python/31. Exception handling.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "26. List comprehension in python"
+              "title": "31. Exception handling"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "match case ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,11 +185,16 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
-    "01. python/25. Membership Operator in python.md",
+    "01. python/30. Scopes in python.md",
+    "01. python/31. Exception handling.md",
+    "01. python/29. Modules in python.md",
+    "01. python/28. Labda in python.md",
+    "01. python/27. match case in python.md",
     "01. python/26. List comprehension in python.md",
+    "01. python/25. Membership Operator in python.md",
+    "01. python/22. random in python.md",
     "01. python/Untitled",
     "01. python/24. Functions in python.md",
-    "01. python/22. random in python.md",
     "01. python/21. dictionary in python.md",
     "01. python/19. Set in python.md",
     "01. python/20. tuple in python.md",
@@ -207,12 +212,7 @@
     "01. python/07. condition operators.md",
     "01. python/10. Conditional express (Ternary Operator).md",
     "01. python/13. String indexing.md",
-    "01. python/12. String Methods.md",
-    "01. python/14. format Specifiers in python.md",
-    "01. python/10. Condition Statement - if-el if lader - else.md",
     "Untitled",
-    "01. python/11. Logical operator in python.md",
-    "01. python/08. Condition Statement - if.md",
     "Pasted image 20260203010604.png",
     "Pasted image 20260203010601.png",
     "Pasted image 20260203010546.png",
