@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. numpy/05. Aggregate functions in numpy array.md",
+                "file": "04. Pandas/04 Filters in DataFrame.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05. Aggregate functions in numpy array"
+              "title": "04 Filters in DataFrame"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conda/01. anaconda installation.md",
+                "file": "01. python/31. Exception handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01. anaconda installation"
+              "title": "Backlinks for 31. Exception handling"
             }
           },
           {
@@ -185,34 +185,35 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
+    "04. Pandas/03. DataFrame Selection.md",
+    "04. Pandas/04 Filters in DataFrame.md",
+    "04. Pandas/02. Pandas Series.md",
+    "04. Pandas/01. What is pandas ?.md",
+    "02. conda/01. anaconda installation.md",
+    "04. Pandas",
+    "02. conda/02. Create anaconda venv in python.md",
+    "01. python/31. Exception handling.md",
+    "01. python/18 list in python.md",
+    "01. python/17. test 1.0.md",
+    "01. python/16. Time in python.md",
+    "01. python/15. Loops in python.md",
+    "01. python/12. String Methods.md",
+    "01. python/13. String indexing.md",
+    "01. python/29. Modules in python.md",
+    "01. python/30. Scopes in python.md",
     "03. numpy/04. Arithmetic in NumPy.md",
     "03. numpy/05. Aggregate functions in numpy array.md",
     "03. numpy/03. Slicing in NumPy of Array.md",
-    "03. numpy/02. Array in Numpy.md",
     "03. numpy/01. Installation & Verification.md",
-    "02. conda/02. Create anaconda venv in python.md",
+    "03. numpy/02. Array in Numpy.md",
     "03. numpy",
     "01. python/09. Condition Statement - if else.md",
-    "01. python/31. Exception handling.md",
-    "01. python/30. Scopes in python.md",
-    "01. python/29. Modules in python.md",
     "01. python/28. Labda in python.md",
     "01. python/27. match case in python.md",
     "01. python/26. List comprehension in python.md",
     "01. python/25. Membership Operator in python.md",
     "01. python/22. random in python.md",
     "01. python/Untitled",
-    "01. python/24. Functions in python.md",
-    "01. python/21. dictionary in python.md",
-    "01. python/19. Set in python.md",
-    "01. python/20. tuple in python.md",
-    "01. python/18 list in python.md",
-    "01. python/21. Continue Break python.md",
-    "01. python/16. Time in python.md",
-    "01. python/15. Loops in python.md",
-    "01. python/06. Math Lib in py.md",
-    "01. python/17. test 1.0.md",
-    "01. python/00. Clear Console.md",
     "Pasted image 20260203010604.png",
     "Pasted image 20260203010601.png",
     "Pasted image 20260203010546.png",
