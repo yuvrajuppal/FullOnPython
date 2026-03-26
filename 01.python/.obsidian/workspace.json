@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Pandas/01 What is pandas.md",
+                "file": "04. Pandas/02. Pandas Series.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 What is pandas"
+              "title": "02. Pandas Series"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
-    "04. Pandas/02. Pandas Series.md",
     "04. Pandas/03. DataFrame Selection.md",
+    "04. Pandas/02. Pandas Series.md",
     "04. Pandas/01 What is pandas.md",
     "04. Pandas/04 Filters in DataFrame.md",
     "02. conda/01. anaconda installation.md",

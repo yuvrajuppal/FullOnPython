@@ -30,9 +30,9 @@ Pandas relies on two main building blocks:
 
 Let’s say you have a list of employees and their salaries. Here is how you would create a DataFrame and perform a basic analysis.
 
-Python
 
-```
+
+```Python
 import pandas as pd
 
 # 1. Create a simple dataset
