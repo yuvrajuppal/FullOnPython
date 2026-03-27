@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Module 1. Introduction to Artificial Intelligence and Machine Learning/03. Applications of AI and ML in various fields..md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,11 +185,11 @@
   },
   "active": "ac516bea93855fe3",
   "lastOpenFiles": [
-    "Module 1. Introduction to Artificial Intelligence and Machine Learning/02. Historical overview and evolution of AI..md",
-    "Module 1. Introduction to Artificial Intelligence and Machine Learning/03. Applications of AI and ML in various fields..md",
-    "Module 1. Introduction to Artificial Intelligence and Machine Learning/01. Definition and scope of AI and ML..md",
     "Module 2. Foundations of AI/01. Search algorithms Breadth-first search, depth-first search, heuristic search.md",
+    "Module 1. Introduction to Artificial Intelligence and Machine Learning/03. Applications of AI and ML in various fields..md",
     "Module 2. Foundations of AI/02. Problem-solving methods - Uninformed search, informed search, constraint satisfactionproblems.md",
+    "Module 1. Introduction to Artificial Intelligence and Machine Learning/02. Historical overview and evolution of AI..md",
+    "Module 1. Introduction to Artificial Intelligence and Machine Learning/01. Definition and scope of AI and ML..md",
     "Module 2. Foundations of AI",
     "Ai Ml/01. What Is Process And Threads.md",
     "Module 1. Introduction to Artificial Intelligence and Machine Learning",
