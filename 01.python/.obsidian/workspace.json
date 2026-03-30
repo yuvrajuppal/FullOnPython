@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/21. Continue Break python.md",
+                "file": "04. Pandas/05. reading files.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "21. Continue Break python"
+              "title": "05. reading files"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "match case ",
+                "query": "print(f\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +185,18 @@
   },
   "active": "190052b37befc29f",
   "lastOpenFiles": [
-    "01. python/27. match case in python.md",
-    "01. python/04. input in py.md",
-    "01. python/00. Clear Console.md",
+    "03. numpy/Untitled.md",
+    "04. Pandas/05. reading files.md",
     "04. Pandas/01 What is pandas.md",
+    "01. python/06. Math Lib in py.md",
+    "01. python/05. arithmetic operation.md",
+    "01. python/04. input in py.md",
+    "01. python/03. Type casting.md",
+    "01. python/02. variable.md",
+    "01. python/01 DataTypes in python.md",
+    "01. python/00. Clear Console.md",
+    "01. python/21. Continue Break python.md",
+    "01. python/27. match case in python.md",
     "04. Pandas/03. DataFrame Selection.md",
     "03. numpy/05. Aggregate functions in numpy array.md",
     "03. numpy/04. Arithmetic in NumPy.md",
@@ -203,14 +211,6 @@
     "01. python/15. Loops in python.md",
     "01. python/14. format Specifiers in python.md",
     "01. python/13. String indexing.md",
-    "01. python/10. Condition Statement - if-el if lader - else.md",
-    "01. python/06. Math Lib in py.md",
-    "01. python/05. arithmetic operation.md",
-    "01. python/26. List comprehension in python.md",
-    "04. Pandas/02. Pandas Series.md",
-    "04. Pandas/04 Filters in DataFrame.md",
-    "01. python/18 list in python.md",
-    "01. python/17. test 1.0.md",
     "04. Pandas",
     "03. numpy",
     "01. python/Untitled",
