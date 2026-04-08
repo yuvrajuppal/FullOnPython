@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "b650d36a2e867403",
+    "id": "a9fb2d115cbf6be3",
     "type": "split",
     "children": [
       {
-        "id": "7f4fae684a29f75c",
+        "id": "eedbd99037b44fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "190052b37befc29f",
+            "id": "8f946d2ed0d33939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. conda/02. Create anaconda venv in python.md",
+                "file": "numpy/04. Diff in loops and Numpy.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Create anaconda venv in python"
+              "title": "04. Diff in loops and Numpy"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "13e3f47d9d8c8c7b",
+    "id": "31fd52c94d0951ff",
     "type": "split",
     "children": [
       {
-        "id": "55b94ce3942b8918",
+        "id": "ea516e4c22413eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "543ee4ed3ed54fe0",
+            "id": "12295ba7e29fc5cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "24a495d1b5714723",
+            "id": "c791cbc0f842d040",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "print(f\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a69eb21537ddb66e",
+            "id": "a0c681476b8955df",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "5c61a52a268e0afb",
+    "id": "6a49c4914dfa209b",
     "type": "split",
     "children": [
       {
-        "id": "eaa660e62f5ed06a",
+        "id": "faf112a826cc712f",
         "type": "tabs",
         "children": [
           {
-            "id": "94ae917e632cfb02",
+            "id": "d98fe75bc64bb485",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. python/31. Exception handling.md",
+                "file": "numpy/04. Diff in loops and Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 31. Exception handling"
+              "title": "Backlinks for 04. Diff in loops and Numpy"
             }
           },
           {
-            "id": "6decb24bfcf5be6b",
+            "id": "fe9cc2a33fbf945d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conda/01. anaconda installation.md",
+                "file": "numpy/04. Diff in loops and Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01. anaconda installation"
+              "title": "Outgoing links from 04. Diff in loops and Numpy"
             }
           },
           {
-            "id": "6870b42f04855d3f",
+            "id": "91055875647c4266",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "efe99f4d4713cd48",
+            "id": "92b9b622fd9540b9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "01f1c1890f9d9632",
+            "id": "ec2018f600263d63",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conda/01. anaconda installation.md",
+                "file": "numpy/04. Diff in loops and Numpy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. anaconda installation"
+              "title": "Outline of 04. Diff in loops and Numpy"
             }
           }
         ]
@@ -183,47 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "190052b37befc29f",
+  "active": "8f946d2ed0d33939",
   "lastOpenFiles": [
-    "02. conda/01. anaconda installation.md",
-    "03. numpy/01. Installation & Verification.md",
-    "03. numpy/02. Array in Numpy.md",
-    "02. conda/02. Create anaconda venv in python.md",
-    "04. Pandas/05. reading files.md",
-    "Pasted image 20260330120419.png",
-    "03. numpy/Untitled.md",
-    "04. Pandas/01 What is pandas.md",
-    "01. python/06. Math Lib in py.md",
-    "01. python/05. arithmetic operation.md",
-    "01. python/04. input in py.md",
-    "01. python/03. Type casting.md",
-    "01. python/02. variable.md",
-    "01. python/01 DataTypes in python.md",
-    "01. python/00. Clear Console.md",
-    "01. python/21. Continue Break python.md",
-    "01. python/27. match case in python.md",
-    "04. Pandas/03. DataFrame Selection.md",
-    "03. numpy/05. Aggregate functions in numpy array.md",
-    "03. numpy/04. Arithmetic in NumPy.md",
-    "01. python/31. Exception handling.md",
-    "01. python/30. Scopes in python.md",
-    "01. python/28. Labda in python.md",
-    "01. python/29. Modules in python.md",
-    "01. python/25. Membership Operator in python.md",
-    "01. python/15. Loops in python.md",
-    "01. python/14. format Specifiers in python.md",
-    "04. Pandas",
-    "03. numpy",
-    "01. python/Untitled",
-    "Pasted image 20260203010604.png",
-    "Pasted image 20260203010601.png",
-    "Pasted image 20260203010546.png",
-    "Pasted image 20260203010542.png",
-    "Pasted image 20260203010538.png",
-    "Pasted image 20260203010533.png",
-    "Pasted image 20260203010420.png",
-    "Pasted image 20260129004243.png",
-    "01. python",
-    "02. conda"
+    "numpy/03. where Numpy is used.md",
+    "numpy/04. Diff in loops and Numpy.md",
+    "numpy/02. what and why is Numpy.md",
+    "numpy/01. who made numpy.md",
+    "numpy"
   ]
 }
