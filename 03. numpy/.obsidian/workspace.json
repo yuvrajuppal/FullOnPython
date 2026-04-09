@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "numpy/04. Diff in loops and Numpy.md",
+                "file": "numpy/06. NumPy Basics Arrays and the ndarray Object.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Diff in loops and Numpy"
+              "title": "06. NumPy Basics Arrays and the ndarray Object"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "8f946d2ed0d33939",
   "lastOpenFiles": [
-    "numpy/03. where Numpy is used.md",
+    "numpy/05. Installation and Setup.md",
     "numpy/04. Diff in loops and Numpy.md",
-    "numpy/02. what and why is Numpy.md",
+    "numpy/08.  Array Operations.md",
+    "numpy/07. Array Creation.md",
+    "numpy/06. NumPy Basics Arrays and the ndarray Object.md",
+    "numpy/03. where Numpy is used.md",
     "numpy/01. who made numpy.md",
+    "numpy/02. what and why is Numpy.md",
     "numpy"
   ]
 }
