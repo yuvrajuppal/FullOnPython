@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "numpy/10.  Advanced Array Manipulations.md",
+                "file": "numpy/12. Linear Algebra with NumPy.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.  Advanced Array Manipulations"
+              "title": "12. Linear Algebra with NumPy"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "8f946d2ed0d33939",
   "lastOpenFiles": [
+    "Pasted image 20260417144411.png",
+    "numpy/10.  Advanced Array Manipulations.md",
+    "numpy/12. Linear Algebra with NumPy.md",
     "numpy/11 Data Analysis with NumPy.md",
+    "numpy/09. Basic Array Manipulations.md",
     "numpy/01. who made numpy.md",
     "Pasted image 20260414143517.png",
-    "numpy/10.  Advanced Array Manipulations.md",
-    "numpy/09. Basic Array Manipulations.md",
     "numpy/08.  Array Operations.md",
     "numpy/02. what and why is Numpy.md",
     "numpy/03. where Numpy is used.md",
