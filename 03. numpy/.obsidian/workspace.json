@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "numpy/04. Diff in loops and Numpy.md",
+                "file": "numpy/12. Linear Algebra with NumPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04. Diff in loops and Numpy"
+              "title": "Backlinks for 12. Linear Algebra with NumPy"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,20 +184,21 @@
   },
   "active": "8f946d2ed0d33939",
   "lastOpenFiles": [
-    "Pasted image 20260417144411.png",
+    "numpy/13. assignments till now.md",
     "numpy/10.  Advanced Array Manipulations.md",
-    "numpy/12. Linear Algebra with NumPy.md",
     "numpy/11 Data Analysis with NumPy.md",
-    "numpy/09. Basic Array Manipulations.md",
-    "numpy/01. who made numpy.md",
-    "Pasted image 20260414143517.png",
     "numpy/08.  Array Operations.md",
-    "numpy/02. what and why is Numpy.md",
-    "numpy/03. where Numpy is used.md",
-    "numpy/04. Diff in loops and Numpy.md",
-    "numpy/05. Installation and Setup.md",
-    "numpy/06. NumPy Basics Arrays and the ndarray Object.md",
     "numpy/07. Array Creation.md",
+    "numpy/05. Installation and Setup.md",
+    "numpy/04. Diff in loops and Numpy.md",
+    "numpy/03. where Numpy is used.md",
+    "numpy/06. NumPy Basics Arrays and the ndarray Object.md",
+    "numpy/02. what and why is Numpy.md",
+    "numpy/01. who made numpy.md",
+    "numpy/12. Linear Algebra with NumPy.md",
+    "Pasted image 20260417144411.png",
+    "numpy/09. Basic Array Manipulations.md",
+    "Pasted image 20260414143517.png",
     "numpy"
   ]
 }
