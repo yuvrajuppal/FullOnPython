@@ -11,10 +11,14 @@
             "id": "737ba5a1c87021ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Matplotlib/Matplotlib/03. Plot Customization.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03. Plot Customization"
             }
           }
         ]
@@ -177,5 +181,9 @@
     }
   },
   "active": "737ba5a1c87021ae",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "04 Matplotlib/Matplotlib/02. Basic Example.md",
+    "04 Matplotlib/Matplotlib/01. Matplotlib Intro.md",
+    "04 Matplotlib/Matplotlib/03. Plot Customization.md"
+  ]
 }
