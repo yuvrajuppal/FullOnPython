@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. python/22. random in python.md",
+                "file": "02. conda/02. Create anaconda venv in python.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22. random in python"
+              "title": "02. Create anaconda venv in python"
             }
           }
         ]
@@ -183,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "543ee4ed3ed54fe0",
+  "active": "190052b37befc29f",
   "lastOpenFiles": [
+    "02. conda/01. anaconda installation.md",
+    "02. conda/02. Create anaconda venv in python.md",
+    "01. python/22. random in python.md",
     "01. python/06. Math Lib in py.md",
     "03. numpy/05. Aggregate functions in numpy array.md",
     "03. numpy/04. Arithmetic in NumPy.md",
@@ -192,8 +195,6 @@
     "03. numpy/01. Installation & Verification.md",
     "03. numpy/03. Slicing in NumPy of Array.md",
     "Pasted image 20260330120419.png",
-    "02. conda/02. Create anaconda venv in python.md",
-    "02. conda/01. anaconda installation.md",
     "04. Pandas/05. reading files.md",
     "03. numpy/Untitled.md",
     "04. Pandas/01 What is pandas.md",
@@ -211,7 +212,6 @@
     "01. python/28. Labda in python.md",
     "01. python/29. Modules in python.md",
     "01. python/25. Membership Operator in python.md",
-    "01. python/15. Loops in python.md",
     "04. Pandas",
     "03. numpy",
     "01. python/Untitled",

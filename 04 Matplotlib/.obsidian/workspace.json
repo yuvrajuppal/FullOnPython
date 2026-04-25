@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a9fb2d115cbf6be3",
+    "id": "62a4fe76862eab66",
     "type": "split",
     "children": [
       {
-        "id": "d3c884980c58f094",
+        "id": "4da890228b2b0cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "9989de17b371fc42",
+            "id": "a5202dced1473dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "numpy/15..md",
-                "mode": "preview",
+                "file": "Matplotlib/03. Plot Customization.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15."
+              "title": "03. Plot Customization"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "31fd52c94d0951ff",
+    "id": "7ce3fbc3e533c2cf",
     "type": "split",
     "children": [
       {
-        "id": "ea516e4c22413eb4",
+        "id": "dd44364b27f3c0dd",
         "type": "tabs",
         "children": [
           {
-            "id": "12295ba7e29fc5cf",
+            "id": "307dc1ef8947350d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c791cbc0f842d040",
+            "id": "e6eeed7541706038",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a0c681476b8955df",
+            "id": "e703b9d4d5a137c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "6a49c4914dfa209b",
+    "id": "f598b86e60eec0b2",
     "type": "split",
     "children": [
       {
-        "id": "faf112a826cc712f",
+        "id": "960e758584ce7cee",
         "type": "tabs",
         "children": [
           {
-            "id": "d98fe75bc64bb485",
+            "id": "9a5d2bf2a477fbbc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "numpy/13. assignments till now.md",
+                "file": "Matplotlib/03. Plot Customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13. assignments till now"
+              "title": "Backlinks for 03. Plot Customization"
             }
           },
           {
-            "id": "fe9cc2a33fbf945d",
+            "id": "c1f017f63f2bac4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "numpy/13. assignments till now.md",
+                "file": "Matplotlib/03. Plot Customization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 13. assignments till now"
+              "title": "Outgoing links from 03. Plot Customization"
             }
           },
           {
-            "id": "91055875647c4266",
+            "id": "d2b1e19079baa29e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "92b9b622fd9540b9",
+            "id": "976a7c9c357bb864",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,26 +151,25 @@
             }
           },
           {
-            "id": "ec2018f600263d63",
+            "id": "63bcd076e54bab14",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "numpy/13. assignments till now.md",
+                "file": "Matplotlib/03. Plot Customization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 13. assignments till now"
+              "title": "Outline of 03. Plot Customization"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,25 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "9989de17b371fc42",
+  "active": "a5202dced1473dc9",
   "lastOpenFiles": [
-    "numpy/14.  Performance Optimization.md",
-    "numpy/15..md",
-    "numpy/13. assignments till now.md",
-    "numpy/12. Linear Algebra with NumPy.md",
-    "numpy/10.  Advanced Array Manipulations.md",
-    "numpy/11 Data Analysis with NumPy.md",
-    "numpy/08.  Array Operations.md",
-    "numpy/07. Array Creation.md",
-    "numpy/05. Installation and Setup.md",
-    "numpy/04. Diff in loops and Numpy.md",
-    "numpy/03. where Numpy is used.md",
-    "numpy/06. NumPy Basics Arrays and the ndarray Object.md",
-    "numpy/02. what and why is Numpy.md",
-    "numpy/01. who made numpy.md",
-    "Pasted image 20260417144411.png",
-    "numpy/09. Basic Array Manipulations.md",
-    "Pasted image 20260414143517.png",
-    "numpy"
+    "Pasted image 20260425150937.png",
+    "Matplotlib/02. Basic Example.md",
+    "Matplotlib/03. Plot Customization.md",
+    "Matplotlib/01. Matplotlib Intro.md",
+    "Pasted image 20260425145048.png",
+    "Welcome.md",
+    "Matplotlib"
   ]
 }
